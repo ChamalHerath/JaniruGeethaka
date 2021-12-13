@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+    background-repeat:no-repeat;
+    color: rgb(97, 16, 6);
+    background-size: cover;
+}
+.wrapper .logo image{
+    background-position: cover;
+}
+footer{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
